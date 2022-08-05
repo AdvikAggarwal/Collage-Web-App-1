@@ -1,0 +1,32 @@
+#header
+{
+    font-family: 'Alumni Sans Inline One', cursive;
+    font-size: 100px;
+}
+
+.camera
+{
+    width: fit-content;
+    height: fit-content;
+    border:1px solid black;
+}
+
+.photo
+{
+    height: fit-content;
+    width: fit-content; 
+    border:5px solid black;
+}
+.section
+{
+    font-family: 'Fredericka the Great', cursive;
+}
+.info
+{
+    font-family: 'Redressed', cursive;
+}
+#warning
+{
+    font-family: 'Rubik Mono One', sans-serif;
+    color: red;
+}
